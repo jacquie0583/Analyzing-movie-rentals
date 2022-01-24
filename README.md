@@ -3,5 +3,5 @@ Connected to a PostgreSQL database with data around a DVD rental business and pr
 
 
 <p align="center">
-  <img width="500" height="300" src="https://github.com/jacquie0583/SQL-Challenge-2-Case-Study/blob/main/Picture1.png">
+  <img width="900" height="600" src="https://github.com/jacquie0583/Analyzing-movie-rentals/blob/main/Picture1.png">
 </p>
